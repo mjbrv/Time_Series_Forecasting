@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains implementations of various time series forecasting models aimed at predicting future values in a data sequence over time. These models are applicable to domains such as finance, weather forecasting, and demand planning in supply chain management. My goal is to provide a scalable, efficient, and user-friendly solution for time series analysis for every one interested.
+This repository contains implementations of various time series forecasting models aimed at predicting future values in a data sequence over time. These models are applicable to domains such as finance, weather forecasting, and demand planning in supply chain management. My goal is to provide a scalable, efficient, and user-friendly solution for time series analysis for anyone interested in this topic.
 
 ## Features
 
