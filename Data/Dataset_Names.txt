@@ -1,0 +1,13 @@
+starbucks.csv
+TradeInventories.csv
+DailyTotalFemaleBirths.csv
+co2_mm_mlo.csv
+BeerWineLiquor.csv
+Alcohol_Sales.csv
+RestaurantVisitors.csv
+Miles_Traveled.csv
+HospitalityEmployees.csv
+uspopulation.csv
+M2SLMoneyStock.csv
+airline_passengers.csv
+PCEPersonalSpending.csv
